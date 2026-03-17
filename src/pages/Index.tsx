@@ -330,7 +330,7 @@ const Index = () => {
             <motion.div variants={fadeInUp} custom={3} className="mt-12 flex flex-col sm:flex-row gap-6 justify-center text-center">
               <div className="flex items-center gap-2 justify-center">
                 <Mail className="h-4 w-4 text-gold" />
-                <span className="font-body text-sm text-muted-foreground">info@vasterasunited.se</span>
+                <span className="font-body text-sm text-muted-foreground">partner@vasterasunited.com</span>
               </div>
               <div className="flex items-center gap-2 justify-center">
                 <MapPin className="h-4 w-4 text-gold" />
